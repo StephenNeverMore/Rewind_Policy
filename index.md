@@ -71,7 +71,7 @@
 
 使用SDK名称：友盟SDK
 服务类型：统计分析
-收集个人信息类型：设备信息（IMEI/MAC/Android ID/IDFA/OpenUDID/GUID/SIM卡IMSI/地理位置等）
+收集个人信息类型：设备信息（IMEI/MAC地址/Android ID/IDFA/OpenUDID/GUID/SIM卡IMSI/地理位置/安装列表等）
 隐私权政策链接：https://www.umeng.com/page/policy
 
 
